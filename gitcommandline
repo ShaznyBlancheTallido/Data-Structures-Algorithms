@@ -1,0 +1,28 @@
+!!Commands only work when in github repository in your files!!
+
+**Cloning repository to desktop if you are in desktop directory**
+Command: git clone git link
+
+**Git status to get status of repository**
+Command:git status
+
+**Adding a file from my mac to repository**
+1) Put file in repository folder
+Command:git add filename.extension
+
+**Committing file into repository on the web**
+Command: git commit -m "message"
+*With no message*
+Command: escape :wq
+
+**Pushing file into repository on the web**
+Command:git push
+
+**Pulling updated files from repository from the web**
+Command:git pull
+
+**Add all**
+Command:git add -A
+
+**Shows all commands**
+Command:git
